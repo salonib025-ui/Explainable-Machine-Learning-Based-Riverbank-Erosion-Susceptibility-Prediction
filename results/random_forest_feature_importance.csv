@@ -1,0 +1,13 @@
+Feature,Importance
+numeric__Distance_From_River,0.44272906002108947
+categorical__LandCover_0,0.17616293779163192
+numeric__NDWI,0.16414532542463003
+numeric__NDVI,0.09548873026379526
+numeric__Elevation,0.0492421657386658
+numeric__Rainfall,0.023951435941192794
+categorical__LandCover_1,0.022478275665917865
+categorical__LandCover_4,0.014069327113909834
+categorical__LandCover_6,0.006330033610580557
+categorical__LandCover_5,0.003700780065221618
+categorical__LandCover_3,0.0015572579103361297
+categorical__LandCover_7,0.0001446704530286243
