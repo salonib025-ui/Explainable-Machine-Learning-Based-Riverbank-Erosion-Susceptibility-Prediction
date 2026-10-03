@@ -1,0 +1,13 @@
+Feature
+numeric__NDVI
+numeric__NDWI
+numeric__Elevation
+numeric__Rainfall
+numeric__Distance_From_River
+categorical__LandCover_0
+categorical__LandCover_1
+categorical__LandCover_3
+categorical__LandCover_4
+categorical__LandCover_5
+categorical__LandCover_6
+categorical__LandCover_7
