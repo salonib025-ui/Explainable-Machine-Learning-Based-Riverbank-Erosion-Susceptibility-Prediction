@@ -1,0 +1,13 @@
+Feature,Mean_Absolute_SHAP
+numeric__Distance_From_River,0.3179469688425468
+numeric__NDWI,0.07465100931111991
+categorical__LandCover_0,0.06255798816227547
+numeric__NDVI,0.02878991599676204
+numeric__Elevation,0.01391905560401698
+numeric__Rainfall,0.010584507299360732
+categorical__LandCover_1,0.009687544344321132
+categorical__LandCover_4,0.006429611806869321
+categorical__LandCover_6,0.0026075062968286314
+categorical__LandCover_5,0.0015581490826231286
+categorical__LandCover_3,0.0005389619865786709
+categorical__LandCover_7,4.402503683195248e-05
